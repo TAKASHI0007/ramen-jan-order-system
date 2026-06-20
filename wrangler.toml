@@ -1,4 +1,4 @@
-compatibility_date = "2026-06-20"
+name = "ramen-jan-order-system2"compatibility_date = "2026-06-20"
 
 [assets]
 directory = "./"
