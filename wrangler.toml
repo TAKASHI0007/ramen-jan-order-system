@@ -1,4 +1,4 @@
-name = "ramen-jan-order-system"
+compatibility_date = "2024-06-20"
 
 [[kv_namespaces]]
 binding = "ORDERS_KV"
