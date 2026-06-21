@@ -1,9 +1,0 @@
-compatibility_date = "2026-06-20"
-
-[assets]
-directory = "./"
-
-[[kv_namespaces]]
-binding = "ORDERS_KV"
-id = "788ab4c10ba747a99f8ae88adb2b6dfb"
-
